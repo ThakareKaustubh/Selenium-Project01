@@ -1,0 +1,10 @@
+selenium
+pytest
+pytest-xdist
+pytest-html
+allure-pytest
+pytest-order
+python-dotenv
+openpyxl
+pandas
+requests
